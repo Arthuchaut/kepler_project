@@ -6,6 +6,7 @@ This project is not really useful. It's just for the fun of coding something whe
 - [Kepler Project](#kepler-project)
   - [Table of contents](#table-of-contents)
   - [Introduction](#introduction)
+  - [Usefull links](#usefull-links)
   - [Requirements](#requirements)
   - [Setting up](#setting-up)
     - [Environment configuration](#environment-configuration)
@@ -13,6 +14,10 @@ This project is not really useful. It's just for the fun of coding something whe
 ## Introduction
 
 ...
+
+## Usefull links
+
+- [Specifications](docs/specificatrions.md)
 
 ## Requirements
 
@@ -26,7 +31,7 @@ This section is to describe the project setting up procedure.
 ### Environment configuration
 
 :newspaper: All the procedures described below are done at the root of the project.  
-  
+
 First, you need to initialize a virtualenv (ensure to have `virtualenv` package installed in your python libs).
 
 ```sh
